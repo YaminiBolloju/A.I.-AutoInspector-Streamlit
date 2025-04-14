@@ -18,4 +18,5 @@ yapf==0.40.1
 python-dotenv
 beautifulsoup4
 pypdf
+streamlit
 
