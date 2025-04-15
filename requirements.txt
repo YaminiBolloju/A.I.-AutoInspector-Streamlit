@@ -19,4 +19,8 @@ python-dotenv
 beautifulsoup4
 pypdf
 streamlit
+torch==2.0.1
+torchvision==0.15.2
+mmdet
+mmcv-full==1.7.0
 
