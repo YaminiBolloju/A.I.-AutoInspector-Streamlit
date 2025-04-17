@@ -230,7 +230,7 @@ This project uses resources and data from:
 carDD dataset https://github.com/CarDD-USTC/CarDD-USTC.github.io
 
 ## Contact
-For more information, contact [Divyesh Pratap Singh](https://www.linkedin.com/in/divyesh-pratap-singh/)
+For more information, contact 
 
 ## License
 
